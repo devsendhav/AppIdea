@@ -7,15 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9A43DB9E1C81CD43008461E7 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB951C81CD43008461E7 /* Icon-60.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DB9F1C81CD43008461E7 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB961C81CD43008461E7 /* Icon-72.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA01C81CD43008461E7 /* Icon-72@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB971C81CD43008461E7 /* Icon-72@2x.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA11C81CD43008461E7 /* Icon-Small-50.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB981C81CD43008461E7 /* Icon-Small-50.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA21C81CD43008461E7 /* Icon-Small-50@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB991C81CD43008461E7 /* Icon-Small-50@2x.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA31C81CD43008461E7 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB9A1C81CD43008461E7 /* Icon.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA41C81CD43008461E7 /* Icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB9B1C81CD43008461E7 /* Icon@2x.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA51C81CD43008461E7 /* iTunesArtwork.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB9C1C81CD43008461E7 /* iTunesArtwork.png */; settings = {ASSET_TAGS = (); }; };
-		9A43DBA61C81CD43008461E7 /* iTunesArtwork@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 9A43DB9D1C81CD43008461E7 /* iTunesArtwork@2x.png */; settings = {ASSET_TAGS = (); }; };
 		9AB742C51C01A7190054B9A1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB742C41C01A7190054B9A1 /* main.m */; };
 		9AB742C81C01A7190054B9A1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB742C71C01A7190054B9A1 /* AppDelegate.m */; };
 		9AB742CB1C01A7190054B9A1 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9AB742CA1C01A7190054B9A1 /* ViewController.m */; };
@@ -44,15 +35,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9A43DB951C81CD43008461E7 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-60.png"; sourceTree = "<group>"; };
-		9A43DB961C81CD43008461E7 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72.png"; sourceTree = "<group>"; };
-		9A43DB971C81CD43008461E7 /* Icon-72@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-72@2x.png"; sourceTree = "<group>"; };
-		9A43DB981C81CD43008461E7 /* Icon-Small-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50.png"; sourceTree = "<group>"; };
-		9A43DB991C81CD43008461E7 /* Icon-Small-50@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon-Small-50@2x.png"; sourceTree = "<group>"; };
-		9A43DB9A1C81CD43008461E7 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon.png; sourceTree = "<group>"; };
-		9A43DB9B1C81CD43008461E7 /* Icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Icon@2x.png"; sourceTree = "<group>"; };
-		9A43DB9C1C81CD43008461E7 /* iTunesArtwork.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = iTunesArtwork.png; sourceTree = "<group>"; };
-		9A43DB9D1C81CD43008461E7 /* iTunesArtwork@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "iTunesArtwork@2x.png"; sourceTree = "<group>"; };
 		9AB742C01C01A7190054B9A1 /* testapp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testapp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9AB742C41C01A7190054B9A1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		9AB742C61C01A7190054B9A1 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -135,15 +117,6 @@
 		9AB742C31C01A7190054B9A1 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				9A43DB951C81CD43008461E7 /* Icon-60.png */,
-				9A43DB961C81CD43008461E7 /* Icon-72.png */,
-				9A43DB971C81CD43008461E7 /* Icon-72@2x.png */,
-				9A43DB981C81CD43008461E7 /* Icon-Small-50.png */,
-				9A43DB991C81CD43008461E7 /* Icon-Small-50@2x.png */,
-				9A43DB9A1C81CD43008461E7 /* Icon.png */,
-				9A43DB9B1C81CD43008461E7 /* Icon@2x.png */,
-				9A43DB9C1C81CD43008461E7 /* iTunesArtwork.png */,
-				9A43DB9D1C81CD43008461E7 /* iTunesArtwork@2x.png */,
 				9AB742C41C01A7190054B9A1 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -270,18 +243,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9A43DBA31C81CD43008461E7 /* Icon.png in Resources */,
 				9AB742D31C01A7190054B9A1 /* LaunchScreen.storyboard in Resources */,
-				9A43DBA11C81CD43008461E7 /* Icon-Small-50.png in Resources */,
-				9A43DBA21C81CD43008461E7 /* Icon-Small-50@2x.png in Resources */,
-				9A43DB9F1C81CD43008461E7 /* Icon-72.png in Resources */,
-				9A43DBA01C81CD43008461E7 /* Icon-72@2x.png in Resources */,
-				9A43DBA51C81CD43008461E7 /* iTunesArtwork.png in Resources */,
-				9A43DBA61C81CD43008461E7 /* iTunesArtwork@2x.png in Resources */,
 				9AB742D01C01A7190054B9A1 /* Assets.xcassets in Resources */,
-				9A43DB9E1C81CD43008461E7 /* Icon-60.png in Resources */,
 				9AB742CE1C01A7190054B9A1 /* Main.storyboard in Resources */,
-				9A43DBA41C81CD43008461E7 /* Icon@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -532,7 +496,6 @@
 				9AB742EF1C01A71B0054B9A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		9AB742F01C01A71B0054B9A1 /* Build configuration list for PBXNativeTarget "testappTests" */ = {
 			isa = XCConfigurationList;
@@ -541,7 +504,6 @@
 				9AB742F21C01A71B0054B9A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 		9AB742F31C01A71B0054B9A1 /* Build configuration list for PBXNativeTarget "testappUITests" */ = {
 			isa = XCConfigurationList;
@@ -550,7 +512,6 @@
 				9AB742F51C01A71B0054B9A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
